@@ -17,6 +17,8 @@ Backend project developed to practice populate between models:
 ## Technologies used
 - Node.js
 - javaScript
+- mongoDB
+- Insomnia
 
 ## Dependencies
 - Nodemon
